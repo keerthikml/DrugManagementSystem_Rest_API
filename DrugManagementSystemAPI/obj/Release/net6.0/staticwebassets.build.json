@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MqCZyIqnhLkv7yntwNaGEzbJ3fKyAgZzx96QQ0s4r58=",
+  "Source": "DrugManagementSystemAPI",
+  "BasePath": "_content/DrugManagementSystemAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\bin\Debug\net6.0\DrugManagement.Data.deps.json
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\bin\Debug\net6.0\DrugManagement.Data.runtimeconfig.json
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\bin\Debug\net6.0\DrugManagement.Data.dll
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\bin\Debug\net6.0\DrugManagement.Data.pdb
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.csproj.AssemblyReference.cache
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.AssemblyInfoInputs.cache
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.AssemblyInfo.cs
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.csproj.CoreCompileInputs.cache
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.dll
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\refint\DrugManagement.Data.dll
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.pdb
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\DrugManagement.Data.genruntimeconfig.cache
+C:\Final Web API\DrugManagementSystem\DrugManagement.Data\obj\Debug\net6.0\ref\DrugManagement.Data.dll
